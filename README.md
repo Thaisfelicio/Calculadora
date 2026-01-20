@@ -1,7 +1,7 @@
 # 🧮 Calculator
 
 Calculator with modern interface with **React.js** and **Tailwind CSS**
-![Calculator](images/image.png)
+![Calculator](readme-images/image.png)
 ## 🚀 Links
 * [Figma Design](https://www.figma.com/community/file/1502290022613146600)
 ## 🛠️ Tech Stack
@@ -13,13 +13,13 @@ Calculator with modern interface with **React.js** and **Tailwind CSS**
 ## 📦 Installation
 1. Clone the repository 
 ``` bash
-git clone 
+git clone https://github.com/Thaisfelicio/Calculadora.git
 ``` 
 2. Install the Live Preview extension in your IDE
-![live Preview extension on vs code](images/image-2.png)
+![live Preview extension on vs code](readme-images/image-2.png)
 3. Click in calculator press F1 and type live preview, select Live Preview Start Server
 
-![instructions about live preview](images/image-1.png)
+![instructions about live preview](readme-images/image-1.png)
 
 ## 📝 Notes
 
